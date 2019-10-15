@@ -1,4 +1,4 @@
-# vue_frontend
+# vue-frontend
 
 ## Project setup
 ```
